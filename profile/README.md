@@ -1,35 +1,48 @@
+<div align="center">
+
 # Netzr
 
-**Solutions For An Electric Future**
+### Solutions For An Electric Future
 
-Netzr Teknoloji A.Ş., elektrikli araç enerji sistemleri alanında uçtan uca çözümler sunan bir teknoloji şirketidir. LFP batarya paketleri, batarya yönetim sistemleri (BMS), güç dağıtım üniteleri (PDU) ve elektronik kart tasarımı konularında Türkiye'nin öncü üreticilerinden biriyiz.
+We design and manufacture energy systems for electric vehicles — from cell to complete battery pack.
 
----
+[![Website](https://img.shields.io/badge/netzr.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netzr.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/netzrtech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/netzrtech)
 
-### Ne Yapıyoruz
-
-- **Batarya Paketleri** — 6 kWh'ten 35 kWh'e kadar LFP batarya çözümleri (IP67, sıvı soğutmalı)
-- **Elektronik Kartlar** — HVCU, VCCU, BCU, BMU, DAU, BMS-MU, BMS-SU, PCU
-- **Güç Dağıtım** — PDU, Junction Box, Fuse Box
-- **Mühendislik Hizmetleri** — Özel batarya sistemi tasarımı ve entegrasyonu
-
-### Sektörler
-
-Otomotiv · Hafif ticari araçlar · Mikromobilite · Enerji depolama · Endüstriyel uygulamalar
+</div>
 
 ---
 
-### İletişim
+**Netzr Teknoloji A.Ş.** is a Turkish EV energy systems company headquartered in Gebze, Kocaeli. We engineer and produce LFP battery packs, battery management systems, power distribution units, and custom electronic boards — delivering end-to-end solutions from R&D to series production.
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center"><b>Battery Packs</b><br><sub>6 – 35 kWh LFP modules<br>IP67 · Liquid-cooled</sub></td>
+<td width="25%" align="center"><b>BMS & Electronics</b><br><sub>HVCU · VCCU · BCU · BMU<br>DAU · BMS-MU · BMS-SU · PCU</sub></td>
+<td width="25%" align="center"><b>Power Distribution</b><br><sub>PDU · Junction Box<br>Fuse Box</sub></td>
+<td width="25%" align="center"><b>Engineering</b><br><sub>Custom battery design<br>System integration</sub></td>
+</tr>
+</table>
+
+<br>
+
+**Industries** &nbsp; Automotive · Light commercial vehicles · Micromobility · Energy storage · Industrial
+
+---
+
+<details>
+<summary><b>Contact & Locations</b></summary>
+
+<br>
 
 | | |
-|---|---|
-| **Web** | [netzr.com](https://netzr.com) |
-| **E-posta** | info@netzr.com |
-| **Telefon** | +90 262 503 43 95 |
-| **LinkedIn** | [@netzrtech](https://www.linkedin.com/company/netzrtech) |
-| **Instagram** | [@netzrtech](https://www.instagram.com/netzrtech) |
+|:--|:--|
+| **Email** | info@netzr.com |
+| **Phone** | +90 262 503 43 95 |
+| **Office** | Bilişim Vadisi, Gebze / Kocaeli, Türkiye |
+| **Factory** | Kartepe / Kocaeli, Türkiye |
 
-### Lokasyonlar
-
-- **Ofis** — Bilişim Vadisi, Muallim Mah. Deniz Cad. No:143/6, Gebze/Kocaeli
-- **Fabrika** — Acısu Mah., Vatan Cad., No:26/1, 41080 Kartepe/Kocaeli
+</details>
